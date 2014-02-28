@@ -2,6 +2,11 @@ UberFlimsSF
 ==========
 A map showing all the filming locations for movies in San Francisco with autocomplete searching. 
 
+Jorge Zamora - Full Stack Developer
+-----------
+- http://www.mrjorgezamora.com
+- Resume https://www.dropbox.com/s/czo8gg49zxwzw28/Software%20Engineer%20-%20Jorge%20Zamora.pdf
+
 Feature Set
 -----------
 - BackendLess
