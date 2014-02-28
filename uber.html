@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>UberFilmsSF</title>
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+		<meta charset="utf-8">		
+		<link rel="stylesheet" href="css/uber.css" type="text/css" media="all" />
+	</head>
+	
+	<body>
+		<div id="header">
+				<div id="search-box">
+					<img src="images/uber.png">
+					<form id="search-form">
+						<input id="search-input" type="text" name="search" placeholder="Enter Movie Title" autocomplete="off"><input type="submit" value="Search">
+					</form>
+					<div id="search-results"></div>
+				</div>
+				<div id="movie-section">
+					<img src="">
+					<div id="movie-details"></div>
+				</div>
+		</div>	
+		<div id="map-canvas"></div>
+		<div id="pano"></div>
+		
+		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+		<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+		<script type="text/javascript" src="js/uber.js"></script>
+	</body>
+</html>
