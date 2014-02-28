@@ -51,6 +51,7 @@ Additional Features
 Other projects
 ------------------
 http://www.vidsocially.com/jorge
+
 http://www.amigoster.com/bets (Really old and dated but massive feature set) 
 
 
