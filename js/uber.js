@@ -79,6 +79,7 @@
 					}
 				}
 			} else {
+				clearTimeout(searchForResults); //If they were backspacing fast, we would need to cancel the searching
 				$("#search-results").hide(); //Deleted the contents of the input text field so hide the result div
 			}
 		}
